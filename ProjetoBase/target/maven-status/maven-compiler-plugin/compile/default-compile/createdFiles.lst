@@ -1,0 +1,13 @@
+entidade\Veiculo.class
+dao\Veiculodao.class
+controle\LoginBean.class
+util\JpaUtil.class
+controle\VeiculoBean.class
+entidade\Peca_acessorio.class
+dao\Pecdao.class
+dao\VeiculodaoImpl.class
+controle\PecBean.class
+dao\UsuarioDAO.class
+dao\UsuarioDAOImpl.class
+entidade\Usuario.class
+dao\PecdaoImpl.class
